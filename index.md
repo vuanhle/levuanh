@@ -6,7 +6,7 @@ layout: homepage
 
 I'm an incoming Ph.D. student in Computer Science at the University of Virginia, advised by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io/) as part of the **Responsible AI for Science and Engineering (RAISE)** group.
 
-**I build mathematical foundations for generative AI systems that produce outputs which are provably feasible, safe, and reliable - embedding hard constraints directly into the generative process itself.**
+**I build safe architectures and toolings for generative AI systems that produce outputs which are provably feasible, safe, and reliable - embedding hard constraints directly into the generative process itself.**
 
 I'm broadly interested in constrained optimization, AI safety, and the theoretical basis of trustworthy generative systems. I'm always happy to connect with others working on related problems.
 
