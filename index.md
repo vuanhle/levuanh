@@ -19,14 +19,14 @@ My research develops generative models that solve operations research problems *
 
 ## Core Directions
 
-**1. Constrained Generative Architectures for Operations**  
-I develop diffusion‑based and autoregressive generative models that directly incorporate operational constraints (e.g., capacity ceilings, fairness bounds, regulatory mandates) into their sampling trajectories. Drawing on stochastic optimal control, score‑based modeling, and constraint‑embedding techniques, these architectures produce decisions that are feasible *by construction* – not just at the terminal output, but throughout the entire generation trajectory.
+**1. Constrained Generative Architectures**  
+I develop diffusion‑based and autoregressive generative models that directly enforces constraints (e.g., capacity ceilings, fairness bounds, regulatory mandates) into their sampling trajectories. Drawing on stochastic optimal control, score‑based modeling, and constraint‑embedding techniques, these architectures produce decisions that are feasible *by construction* – not just at the terminal output, but throughout the entire generation trajectory.
 
 **2. Correctness and Feasibility Guarantees for Generated Decisions**  
-I establish finite‑sample guarantees on constraint violation rates using tools from conformal prediction, robust optimization, and distribution‑free verification. These guarantees provide rigorous certificates that a generated operational plan satisfies all hard constraints with high probability, even under distribution shift and without requiring unrealistic assumptions on the underlying data distribution.
+I establish finite‑sample guarantees on constraint violation rates using tools from conformal prediction, robust optimization, and distribution‑free verification.ication. These guarantees provide rigorous certificates that a generated operational plan satisfies all hard constraints with high probability, even under distribution shift and without requiring unrealistic assumptions on the underlying data distribution.
 
 **3. Applications Across Challenging Operations Research Domains**  
-I am driven by concrete operations research problems: **healthcare scheduling** (e.g., nurse rostering with skill‑mix ratios and labor regulations), **supply chain resilience** (e.g., disruption‑scenario generation under network topology constraints), **revenue management** (e.g., dynamic pricing with fairness and anti‑gouging rules), and **platform operations** (e.g., gig‑worker task assignment with wage‑floor guarantees). The constrained generative framework I build is intended as a general‑purpose tool for any domain where operational feasibility is non‑negotiable.
+I am driven by real-life operations research problems: **healthcare**, **supply chain resilience**, **revenue management**, **platform operations**, etc. 
 
 ## Why This Matters
 
@@ -35,7 +35,7 @@ Operations research has spent decades developing the mathematics of optimal deci
 
 # News
 
-- **[Aug. 2026]** Starting my Ph.D. in Computer Science at the University of Virginia, focusing on constrained generative models for operations research problems as part of the RAISE group!
+- **[Aug. 2026]** Starting my Ph.D. in Computer Science at the University of Virginia, focusing on constrained generative models as part of the RAISE group!
 
 ## Publications
 
