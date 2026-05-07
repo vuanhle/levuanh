@@ -10,7 +10,6 @@ I'm an incoming Ph.D. student in Computer Science at the University of Virginia,
 
 I'm broadly interested in constrained optimization, AI safety, and the theoretical basis of trustworthy generative systems. I'm always happy to connect with others working on related problems.
 
----
 
 ## Research
 
@@ -38,13 +37,10 @@ language for requirements. My work brings these two traditions together - embedd
 
 The goal is AI that is not only creative and expressive, but **verifiably trustworthy**: systems whose outputs can be certified safe before deployment, and whose behavior can be formally audited after.
 
----
 
 ## News
 
 - **[Aug. 2026]** Starting my Ph.D. in Computer Science at the University of Virginia as part of the RAISE group!
-
----
 
 ## Publications
 
